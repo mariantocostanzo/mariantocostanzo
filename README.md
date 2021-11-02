@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @mariantocostanzo
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+mariantocostanzo/mariantocostanzo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+Soy maria costanzo, tengo 41 años y vivo en la ciudad de Presidencia  Roque Saenz Peña provincia del Chaco en Argentina
+soy estudiante de la carrera de Licenciatura en Sistemas, actualmente  recibida  de analista en sistemas de  computación
+estoy cursando la tercera etapa del Informatorio, en el segundo nivel dimos programación web y ahora nos encontramos  capacitandonos en testing y java.
