@@ -64,17 +64,6 @@
 
 
 
-## 🙌 Mi fe y mi misión
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTEzNTM1MWFhNzU5NzE0MDI4NDM1NDYwMWJlNThmYjdlZDAyYjkyNiZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif" height="90" />
-</p>
-
-> ✝️ “Todo lo que hagan, háganlo de corazón, como para el Señor y no para los hombres.”  
-> *(Colosenses 3:23)*
-
----
-
 ## 📫 Contacto
 
 📧 [negucostanzo@hotmail.com](mailto:negucostanzo@hotmail.com)  
