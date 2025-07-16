@@ -15,7 +15,7 @@
 
 ```diff
 + Me recibí a los 44 años
-+ Soy cristiana evangélica y valoro el propósito en todo lo que hago
++ Valoro el propósito en todo lo que hago
 + Me apasiona ayudar a personas vulnerables a través de la educación
 ```
 
