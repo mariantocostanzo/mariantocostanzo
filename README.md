@@ -19,7 +19,7 @@
 + Me apasiona ayudar a personas vulnerables a través de la educación
 ```
 
-> 💬 “Donde hay propósito, la tecnología se vuelve esperanza.” – María
+> 💬 “Donde hay propósito, la tecnología se vuelve esperanza.” 
 
 ---
 
