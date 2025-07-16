@@ -1,7 +1,7 @@
 <h1 align="center">✨ ¡Hola! Soy María Costanzo ✨</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" height="120"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDJuYnhsNXBjZWlpcXBlOGxrcjJnNDN2cDZ5bXhodnN1MXd2bDdkNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W4IY7zQdRh7Ow/giphy.gif" height="120"/>
 </p>
 
 <p align="center">
@@ -55,10 +55,10 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="100" />
 </p>
 
-- 💻 Visual Studio Code, Colab, GitHub
-- 📚 FreeCodeCamp, Platzi, W3Schools
-- 🧠 Canva, Photoshop, Figma
-- 📦 Git, GitHub, PostgreSQL, SQLite
+- 💻 Visual Studio Code, Colab
+- 📚 Alura Latam-Informatorio(chaco)-Fundación Carlos Slim-Santander Open Academy-Programo mi Futuro
+- 🧠 Canva, Photoshop, Figma-trello
+- 📦 Git, GitHub, SQL
 
 ---
 
