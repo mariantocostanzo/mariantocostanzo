@@ -62,14 +62,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maria-antonia-costanzo&show_icons=true&theme=rose_pine" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maria-antonia-costanzo&layout=compact&theme=rose_pine" height="180"/>
-</p>
-
----
 
 ## 🙌 Mi fe y mi misión
 
