@@ -50,7 +50,7 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="100" />
-   <img src="https://img.icons8.com/?size=40&id=vsflLExWS6II&format=png" alt="Power BI" height="40"/>
+   
 </p>
 
 - 💻 Visual Studio Code, Colab
