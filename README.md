@@ -74,6 +74,7 @@
 - 📚 Alura Latam-Informatorio(chaco)-Fundación Carlos Slim-Santander Open Academy-Programo mi Futuro
 - 🧠 Canva, Photoshop, Figma-trello
 - 📦 Git, GitHub, SQL
+- 📈 Power Bi/ Tableau
 
 ---
 
