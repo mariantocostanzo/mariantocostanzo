@@ -57,11 +57,9 @@
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL"/>
   <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="SQLite"/>
   <img src="https://img.icons8.com/?size=40&id=vsflLExWS6II&format=png" height="40" alt="Power BI"/>
-  <img src="https://img.icons8.com/?size=40&id=9Gl3rR8tN1zI&format=png" height="40" alt="Tableau"/>
+  <img src="https://img.icons8.com/?size=48&id=9Kvi1p1F0tUo&format=png" height="40" alt="Tableau"/>
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,git,github,vscode,photoshop,postgres,sqlite" />
 
 ## 🧩 Herramientas y Plataformas
 
