@@ -42,6 +42,23 @@
 ---
 
 ## 🛠️ Tecnologías que uso
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML"/>
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS"/>
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js"/>
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java"/>
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code"/>
+  <img src="https://skillicons.dev/icons?i=photoshop" height="40" alt="Photoshop"/>
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL"/>
+  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="SQLite"/>
+  <img src="https://img.icons8.com/?size=40&id=vsflLExWS6II&format=png" height="40" alt="Power BI"/>
+  <img src="https://img.icons8.com/?size=40&id=9Gl3rR8tN1zI&format=png" height="40" alt="Tableau"/>
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,git,github,vscode,photoshop,postgres,sqlite" />
