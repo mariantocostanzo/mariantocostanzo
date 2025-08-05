@@ -29,9 +29,8 @@
 - 🛠️ Frontend + Backend + Bases de datos
 - 🎨 Diseño gráfico y contenido digital
 - 👩‍🏫 Educación tecnológica / alfabetización digital
-- 
-
-
+- 📊🤖 análisis de datos/Inteligencia Artificial
+  
 ---
 
 ## 💡 Intereses
@@ -60,7 +59,8 @@
   <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="SQLite"/>
   <img src="https://img.icons8.com/?size=40&id=vsflLExWS6II&format=png" height="40" alt="Power BI"/>
   <img src="https://img.icons8.com/?size=48&id=9Kvi1p1F0tUo&format=png" height="40" alt="Tableau"/>
-</p>
+   < img src ="https://iconos8.es/icon/fO5yVwARGUEB/chatgpt" height="40" alt="chatgpt"/>
+  </p>
 
 
 ## 🧩 Herramientas y Plataformas
