@@ -29,7 +29,7 @@
 - 🛠️ Frontend + Backend + Bases de datos
 - 🎨 Diseño gráfico y contenido digital
 - 👩‍🏫 Educación tecnológica / alfabetización digital
-- <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/d6ac6f32-3ad2-4958-96d1-b15f6d3d5887" />
+- 
 
 
 ---
