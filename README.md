@@ -71,7 +71,7 @@
 </p>
 
 - 💻 Visual Studio Code, Colab
-- 📚 Alura Latam-Informatorio(chaco)-Fundación Carlos Slim-Santander Open Academy-Programo mi Futuro
+- 📚 Alura Latam-Informatorio(chaco)-Fundación Carlos Slim-Santander Open Academy-Programo mi Futuro-a2capacitación
 - 🧠 Canva, Photoshop, Figma-trello
 - 📦 Git, GitHub, SQL
 - 📈 Power Bi/ Tableau
