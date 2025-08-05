@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-🎓 <b>Licenciada en Informática</b> | 💻 <b>Desarrolladora Web y Educadora Tecnológica</b><br/>
+🎓 <b>Licenciada en Informática</b> | 💻 <b>Desarrolladora Web, analista de datos y Educadora Tecnológica</b><br/>
 ❤️ Apasionada por la tecnología con propósito, el diseño, la enseñanza y el impacto social.
 </p>
 
